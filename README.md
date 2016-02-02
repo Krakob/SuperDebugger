@@ -8,7 +8,7 @@ Simply import the decorator function and wrap any function you'd like to debug.
 
     @debug
     main():
-        pass
+        p = np
 
     if __name__ == '__main__':
         main()
